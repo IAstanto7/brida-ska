@@ -1,0 +1,50 @@
+.bg-soft-primary {
+    background-color: rgba(85,110,230,.25)!important;
+}
+
+.bg-authentication{
+    background: linear-gradient(to right, rgb(35 144 192), rgb(21 97 107));
+    border-radius: 22px;
+}
+
+.auth-layout{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.avatar-md {
+    height: 4.5rem;
+    width: 4.5rem;
+}
+
+.profile-user-wid {
+    margin-top: -26px;
+}
+
+.avatar-title {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: #556ee6;
+    color: #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    font-weight: 500;
+    height: 100%;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.rounded-circle {
+    border-radius: 50%!important;
+}
+
+.bg-light {
+    background-color: #eff2f7!important;
+}
